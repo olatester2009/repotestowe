@@ -1,3 +1,3 @@
    public void wyszukiwanieWniosku() {
         System.out.println("Kliknij Wyszukaj");
-        System.out.println("Uzupełnij Wniosek");
+        System.out.println("Uzupełnij Nowy Wniosek");
