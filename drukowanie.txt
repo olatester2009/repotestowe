@@ -1,0 +1,3 @@
+   public void drukowanieStrony() {
+        System.out.println("Kliknij strona");
+        System.out.println(Kliknij Drukuj);
