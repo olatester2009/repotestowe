@@ -17,3 +17,6 @@
 
  public void przypomnijHasŁo() {
         System.out.println("Kliknij na przycisk Przypomnij hasło");
+
+ public void zmieńjHasŁo() {
+        System.out.println("Kliknij na przycisk zmień hasło");
